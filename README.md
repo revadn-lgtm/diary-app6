@@ -35,7 +35,7 @@ Gunakan aplikasi Expo Go di perangkat seluler (Android/iOS) untuk memindai QR Co
 
 | Create | Favorites | Settings |
 | :---: | :---: | :---: |
-| ![Create](./screenshots/create.jpeg) | ![Favorites](./screenshots/favorites.jpeg) | ![Settings](./screenshots/settings.jpeg) |
+| ![Create](./screenshots/create.jpeg) | ![Favorites](./screenshots/favorite.jpeg) | ![Settings](./screenshots/settings.jpeg) |
 | *Formulir interaktif untuk membuat entri diary baru.* | *Tab khusus untuk mengelompokkan catatan favorit/disukai.* | *Halaman pengaturan dan informasi seputar aplikasi.* |
 
 ## 🪝 Penjelasan Hooks yang Digunakan
